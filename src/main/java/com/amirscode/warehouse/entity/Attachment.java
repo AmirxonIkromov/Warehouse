@@ -17,7 +17,7 @@ public class Attachment {
 
     private String name;
 
-    private int size;
+    private Long size;
 
     private String contentType;
 
